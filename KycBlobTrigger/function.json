@@ -4,7 +4,7 @@
       "name": "myBlob",
       "type": "blobTrigger",
       "direction": "in",
-      "path": "banking-documents/{name}",
+      "path": "kyc-details/{name}",
       "connection": "AZURE_STORAGE_CONNECTION_STRING"
     }
   ]
